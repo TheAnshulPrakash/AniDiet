@@ -56,7 +56,7 @@ def convo(container : ft.Container, text, col):
 
 def main(page: ft.Page):
     
-    
+    page.title="AniDiet"
     page.theme_mode = "light"
     page.scroll="auto"
     
